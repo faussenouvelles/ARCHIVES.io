@@ -43,9 +43,9 @@
       <h1 class="masthead-brand">Massachusettes Institute of Technology · Archives 2022 · </h1>
       <br>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link active" href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/GITHUB%20PORTOLIO/1.%20portfolio.html">MAINE</a>
-        <a class="nav-link" href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/GITHUB%20PORTOLIO/2.%20Projects%20Page.html">PROJECTS</a>
-        <a class="nav-link" href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/GITHUB%20PORTOLIO/3.%20Archives.html">ARCHIVES</a>
+                <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
+        <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
+        <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
       </nav>
     </div>
   </header>
