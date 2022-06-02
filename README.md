@@ -546,6 +546,6 @@ someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
 </ul>
 <p><strong><a href="#table-of-contents">back to top</a></strong></p>
 <h2 id="-"> function setTimer { COMING SOON }</h2>
-                                </body>
-                                </html>
+</body>
+</html>
                                 
