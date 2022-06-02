@@ -3,12 +3,12 @@
 <body class="text-right">
     <body style="background-color: #FFE4E1;">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-  <header class="masthead mb-auto">
+  <header class="masthead mb-auto text-center">
     <div class="inner">
-      <h1 class="masthead-brand">Massachusettes Institute of Technology · Archives 2022 · </h1>
+      <h1 class="masthead-brand">Massachusettes Institute of Technology · Projects 2022 · </h1>
       <br>
       <nav class="nav nav-masthead justify-content-center">
-                <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
+        <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
       </nav>
