@@ -1,6 +1,7 @@
 <html>
     <body>
 <body class="text-right">
+    <body style="background-color: #FFE4E1;">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
     <div class="inner">
