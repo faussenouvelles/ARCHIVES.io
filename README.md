@@ -8,7 +8,7 @@
       <h1 class="masthead-brand">Massachusettes Institute of Technology · Archives 2022 · </h1>
       <br>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
+        <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
       </nav>
@@ -24,7 +24,6 @@
     <li><a href="#CSS Files">CSS Files</a> · </li>
     <li><a href="#Pacman">Pacman Factory</a> · </li>
     <li><a href="#Eyes">Eye Movement Activity</a> · </li>
-    <li><a href="#Real Time Bus Tracker">Real Time Bus Tracker</a> · </li>
 </ol>
 <br>
 <br>
@@ -374,7 +373,7 @@
         <h6><a href="https://github.com/faussenouvelles/pacman-factory.io/blob/main/week%207%20-%20pacman%20factory.js"> ❧ PACMAN FACTORY. JS</a>
         · <a href="https://github.com/faussenouvelles/pacman-factory.io/blob/main/week%207%20-%20pacman%20factory.html"> ❧ PACMAN FACTORY.HTML</a></h6>
 <br>
-        <h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:17:2022-%20Intro%20to%20Github,%20Testing,%20and%20the%20DOM/classwork/week%207%20-%20pacman%20factory.html"> ❧ PACMAN FACTORY · ❧ VIDEOGAME</a></h6>
+        <h6><a href="https://faussenouvelles.github.io/pacman-factory.io/"> ❧ PACMAN FACTORY · ❧ VIDEOGAME</a></h6>
     </li>
 </ul>
 <br>
