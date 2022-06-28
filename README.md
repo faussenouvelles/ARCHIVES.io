@@ -1,7 +1,7 @@
 <html>
     <body>
 <body class="text-right">
-    <body style="background-color: #FFE4E1;">
+<body style="height:100%;background-color:#fcfcf7;display:flex;color:#2F4F4F;font-family:'PT Sans Caption', sans-serif;text-shadow:0 .05rem .1rem rgba(187, 7, 160, 0.5);box-shadow:inset 0 0 5rem rgba(250, 248, 250, 0.5);background:url('00.jpg') no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto text-center">
     <div class="inner">
