@@ -25,7 +25,6 @@
     <li><a href="#Pacman">Pacman Factory</a> · </li>
     <li><a href="#Eyes">Eye Movement Activity</a> · </li>
     <li><a href="#Real Time Bus Tracker">Real Time Bus Tracker</a> · </li>
-    <li><a href="#Bootstrap">Bootstrap Archives</a> · </li>
 </ol>
 <br>
 <br>
@@ -494,58 +493,43 @@
     </li>
 </ul>
 <br>
-<h3 id="Real Time Bus Tracker"> · Real Time Bus Tracker · </h3>
-<ul>
-    <li>
-        <p>Use the literal syntax for array creation.</p>
-        <pre><code class="lang-javascript"><span class="hljs-comment">// bad</span>
-<span class="hljs-keyword">var</span> items = <span class="hljs-keyword">new</span> <span class="hljs-type">Array</span>();
+<h2 id="-"><strong>function returnHome <a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/GITHUB%20PORTOLIO/MIT%20Portfolio%20-%20BIO%20.html">{ Main }</a></strong></h2>
+<br>
+<br>
+<footer class="mastfoot mt-auto">
+  <div class="inner">
+    <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
+    <br>
+    <br>
+    <br>
+    <br>      
+    <p>
+      MIT License
 
-<span class="hljs-comment">// good</span>
-<span class="hljs-keyword">var</span> items = [];
-</code></pre>
-    </li>
-    <li>
-        <p>Use Array#push instead of direct assignment to add items to an array.</p>
-        <p>```javascript
-            var someStack = [];</p>
-    </li>
-</ul>
-<pre><code><span class="hljs-comment">// bad</span>
-someStack[someStack.length] = <span class="hljs-string">'bohemianrhapsody'</span>;
+Copyright (c) 2022 fausse_nouvelles
 
-<span class="hljs-comment">// good</span>
-someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
-```
-</code></pre>
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-<h3 id="Bootstrap"> · Bootstrap Archives · </h3>
-<ul>
-    <li>
-        <p>Use single quotes <code>&#39;&#39;</code> for strings.</p>
-        <pre><code class="lang-javascript"><span class="hljs-comment">// bad</span>
-<span class="hljs-keyword">var</span> name = <span class="hljs-string">"Bob Parr"</span>;
-
-<span class="hljs-comment">// good</span>
-<span class="hljs-keyword">var</span> name = <span class="hljs-string">'Bob Parr'</span>;
-
-<span class="hljs-comment">// bad</span>
-<span class="hljs-keyword">var</span> fullName = <span class="hljs-string">"Bob "</span> + <span class="hljs-keyword">this</span>.lastName;
-
-<span class="hljs-comment">// good</span>
-<span class="hljs-keyword">var</span> fullName = <span class="hljs-string">'Bob '</span> + <span class="hljs-keyword">this</span>.lastName;
-</code></pre>
-    </li>
-</ul>
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
-
-<p>This style guide has been adapted from <a href="https://github.com/airbnb/javascript">the airbnb javascript style
-    guide</a></p>
-</ul>
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
-<h2 id="-"> function setTimer { COMING SOON }</h2>
-</body>
-</html>
-                                
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</p>
+      
+    </div>
+  </footer>
+  </div>
+</footer>
+</div>
+<html>
