@@ -135,7 +135,7 @@
         <p>Below is the direct link to Github Codes</p>
         <h6>
             <a href="https://github.com/faussenouvelles/stylized-coffee-shop.io/blob/main/Introducing%20Styles%20to%20HTML.html"> ❧ STYLIZED COFFEE MENU.HTML</a>
- · <a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/classwork/Introducing%20Styles%20to%20HTML.html#"> ❧ STYLIZED COFFEE MENU.CSS</a></h6>
+ · <a href="https://github.com/faussenouvelles/stylized-coffee-shop.io/blob/main/Introducing%20Styles%20to%20HMTL.css"> ❧ STYLIZED COFFEE MENU.CSS</a></h6>
     </li>
 <br>
 <br>
