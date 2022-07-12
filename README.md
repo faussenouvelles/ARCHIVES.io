@@ -530,6 +530,4 @@ SOFTWARE.
     </div>
   </footer>
   </div>
-</footer>
-</div>
 <html>
